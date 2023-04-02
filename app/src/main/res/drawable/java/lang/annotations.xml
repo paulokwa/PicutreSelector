@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.Integer int intValue()'>
+        <annotation name='org.jetbrains.annotations.Range'>
+            <val name="from" val="java.lang.Integer.MIN_VALUE" />
+            <val name="to" val="10" />
+        </annotation>
+    </item>
+</root>

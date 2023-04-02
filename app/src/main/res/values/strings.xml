@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pic Selector</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="image_description">shows a small image of a animal</string>
+    <string name="image_view_string">animal image</string>
+    <string name="rate_your_picture">Rate your picture</string>
+    <string name="to_show_a_larger_image">To show a larger image</string>
+    <string name="to_move_to_the_rating_page">To move to the rating page</string>
+    <string name="textView_crud">Add, update, delete or show picture ratings here:</string>
+    <string name="button_first">First</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Prev.</string>
+    <string name="button_last">LAST</string>
+    <string name="button_add_rating">ADD NEW RATING</string>
+    <string name="button_update_rating">UPDATE RATING</string>
+    <string name="button_delete_rating">DELETE RATING</string>
+    <string name="button_view_data">VIEW DATA</string>
+    <string name="enter_picture_name">Enter picture name</string>
+    <string name="enter_number">Enter number between 1-5</string>
+    <string name="optional">Enter any comments here</string>
+</resources>
